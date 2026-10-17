@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [restosignals](https://github.com/paperandbeyond23-gif/restosignals-mcp/tree/main/skills/restosignals) - Find US restaurants and bars 1-6 months before they open as scored leads with owner contact, via the RestoSignals MCP server. Free API key required.
 
 
 ## 🔬 Scientific & Research Tools
